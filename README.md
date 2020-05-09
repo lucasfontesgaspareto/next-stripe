@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Before start set your keys from Stripe in config/stripe.ts
+
 First, run the development server:
 
 ```bash
